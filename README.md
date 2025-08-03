@@ -30,7 +30,7 @@ In this project, I installed and configured Splunk Enterprise on a Windows deskt
 
 - Web Browser (Chrome) — to access and interact with the Splunk web interface
 
-## Startup Configurations
+## Steps To Follow
 
 Ref 1: This dashboard was likely custom-built to:
 
@@ -50,8 +50,6 @@ Application errors.
 Ref 2: Cleared Windows Event Viewer logs (Application, Security, and System) prior to ingesting fresh event data into Splunk for a controlled log monitoring and analysis environment.
 
 ![Filtered Log Search](https://i.imgur.com/IZj0TUP.png)
-
-## Steps To Follow
 
 Ref 3: First, I performed a broad search (*) to view all incoming events.
 
