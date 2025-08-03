@@ -1,4 +1,4 @@
-# Basic Log Monitoring and Analysis	
+# Log Monitoring and Analysis Using Splunk SIEM	
 
 ## Objective
 
